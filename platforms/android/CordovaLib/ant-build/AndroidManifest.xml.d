@@ -1,0 +1,2 @@
+D:\PhoneGap\Samples\send-sms\platforms\android\CordovaLib\ant-build\AndroidManifest.xml : \
+D:\PhoneGap\Samples\send-sms\platforms\android\CordovaLib\AndroidManifest.xml \
